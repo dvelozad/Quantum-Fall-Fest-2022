@@ -1,4 +1,4 @@
-# Nombre del proyecto
+# Holonomic quantum computation
 
 ## Miembros 
 
